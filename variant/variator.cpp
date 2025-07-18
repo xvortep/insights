@@ -1,3 +1,5 @@
+// https://godbolt.org/z/8n9dYh45h
+
 #include <iostream>
 #include <cstdint>
 #include <cstring>
